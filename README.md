@@ -1,2 +1,2 @@
 # isthisamanager
-Whith this repo you can use personal costumizable space program thats all. :)
+With this repo you can use personal costumizable space program thats all. :)
